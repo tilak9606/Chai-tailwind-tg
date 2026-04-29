@@ -1,0 +1,24 @@
+{
+  "name": "chai-tailwind-tg",
+  "version": "1.0.0",
+  "description": "npm package for custom tailwind",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tilak9606/custom-tailwind.git"
+  },
+  "keywords": [
+    "tailwind",
+    "chai"
+  ],
+  "author": "tilak gajjar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tilak9606/custom-tailwind/issues"
+  },
+  "homepage": "https://github.com/tilak9606/custom-tailwind#readme"
+}
